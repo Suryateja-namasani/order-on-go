@@ -83,7 +83,7 @@ Backend └── README.md
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/Suryateja-namasani/order-on-go.git cd
+git clone https://github.com/mahesh-162/order-on-go.git cd
 order-on-the-go
 
 ### 2️⃣ Backend Setup
@@ -129,7 +129,7 @@ http://localhost:5000/api
 
 ## 🔗 GitHub Repository
 
-https://github.com/Suryateja-namasani/order-on-go.git
+https://github.com/mahesh-162/order-on-go.git
 
 ------------------------------------------------------------------------
 
@@ -140,8 +140,8 @@ https://drive.google.com/file/d/1CSk_wgEstAHhXtKUvN3XhHfs4Vn2Qs1g/view
 ------------------------------------------------------------------------
 
 ## 👨‍💻 Developed By
-
-Namasani Surya Teja 
+ 
+M S MAHESH
 Sri Venkateswara College of Engineering, Tirupati
 
 ------------------------------------------------------------------------
